@@ -1,2 +1,2 @@
-# School-EXERCISE
+# TICTACTOEGAME
 My GitHub root README
